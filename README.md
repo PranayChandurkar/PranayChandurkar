@@ -1,5 +1,40 @@
 # 💫 About Me:
-🔭 I’m currently working on<br>MERN stack projects, personal portfolio website, and improving my problem-solving skills through DSA practice.<br><br>👯 I’m looking to collaborate on<br>Beginner-friendly web development projects, hackathons, and real-world problem solving applications.<br><br>🤝 I’m looking for help with<br>Backend logic, clean code practices, and structuring scalable web applications.<br><br>🌱 I’m currently learning<br>React.js, Data Structures & Algorithms, and Python for automation and computer vision.<br><br>💬 Ask me about<br>Frontend development, MERN basics, hackathon experience, and getting started with coding as a beginner.<br><br>⚡ Fun fact<br>I started coding for projects, now I do it even when I don’t have to.
+# 👋 Hey, I'm Pranay Chandurkar
+
+💻 MERN Stack Developer focused on building fast, responsive, and scalable web applications.
+
+🚀 I enjoy turning ideas into real products and continuously improving my problem-solving skills through development and DSA.
+
+## 🔥 What I Do
+- Build full-stack web applications using the MERN stack
+- Create clean and responsive frontend interfaces
+- Develop REST APIs and backend systems
+- Work on real-world projects and open-source contributions
+
+## 🛠 Tech Stack
+Frontend: React.js • JavaScript • Tailwind CSS • HTML • CSS
+
+Backend: Node.js • Express.js • MongoDB
+
+Tools: Git • GitHub • VS Code • Postman
+
+## 📚 Currently Learning
+- Advanced React Patterns
+- Backend scalability & clean architecture
+- Data Structures & Algorithms
+- Open Source Collaboration
+
+## 🌍 Open Source & Freelancing
+I'm actively looking to collaborate on:
+- Open-source projects
+- Freelance web development work
+- Startup ideas & hackathons
+- Real-world SaaS and productivity tools
+
+## 🎯 Goals
+- Become a high-level Full Stack Developer
+- Contribute consistently to open source
+- Build products used by thousands of users
 
 
 ## 🌐 Socials:
