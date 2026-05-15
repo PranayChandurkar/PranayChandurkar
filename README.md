@@ -1,4 +1,3 @@
-# 💫 About Me:
 # 👋 Hey, I'm Pranay Chandurkar
 
 💻 MERN Stack Developer focused on building fast, responsive, and scalable web applications.
